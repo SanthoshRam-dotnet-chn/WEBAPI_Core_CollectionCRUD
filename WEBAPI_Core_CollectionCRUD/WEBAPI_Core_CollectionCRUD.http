@@ -1,0 +1,6 @@
+@WEBAPI_Core_CollectionCRUD_HostAddress = http://localhost:5057
+
+GET {{WEBAPI_Core_CollectionCRUD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
